@@ -11,7 +11,7 @@
 
 ## Description
 
-Grass is all around us. Most of us walk on it daily. Some even have picnics on it. But what contributes to a long and healthy life for a blade of grass. Join this lecture to find out.
+Grass is all around us. Most of us walk on it daily. Some even have picnics on it. But what contributes to a long and healthy life for a blade of grass? Join this lecture to find out.
 
 ## Setup/Installation Requirements
 
