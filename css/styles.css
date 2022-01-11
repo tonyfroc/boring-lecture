@@ -1,0 +1,20 @@
+body {
+  background-color: lightgreen;
+  color: yellow;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2.intro {
+  text-align: center;
+}
+
+p.intro {
+  font-style: italic;
+}
+
+img {
+  width: 400px;
+}
